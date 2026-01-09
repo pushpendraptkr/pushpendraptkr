@@ -40,5 +40,5 @@ Seeking **remote / WFH Data Analyst or Power BI Developer roles** where I can ap
 ---
 
 ## 📫 Connect with Me
-- LinkedIn: *(add your LinkedIn link here)*  
+- LinkedIn: https://www.linkedin.com/in/pushpendra-patkar-084757205/
 - GitHub: https://github.com/pushpendraptkr
