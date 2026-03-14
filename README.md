@@ -12,7 +12,6 @@ I have **3+ years of experience in data operations, ETL monitoring, and reportin
 * **SQL** – Joins, Aggregations, Subqueries
 * **Power BI** – Data Modeling, DAX, Interactive Dashboards
 * **Python** – Pandas, NumPy for Data Analysis
-* **ETL Monitoring** – Informatica PowerCenter
 * **ServiceNow** – Incident Management
 
 ---
