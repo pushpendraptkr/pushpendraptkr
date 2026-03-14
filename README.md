@@ -39,9 +39,6 @@ This project analyzes sales performance of cement products across different regi
 - Product category comparison
 - Total revenue and quantity sold
 
-### Dashboard Preview
-![Dashboard](dashboard.png)
-
 **Description**
 
 * Analysed regional cement sales data
