@@ -56,7 +56,6 @@ This project analyzes sales performance of cement products across different regi
 ## 2️⃣ E-commerce Sales Analysis (Power BI)
 
 
-
 **Tools:** SQL, Power BI, Data Modeling
 
 **Description**
