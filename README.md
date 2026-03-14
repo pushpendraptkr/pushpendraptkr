@@ -31,7 +31,9 @@ I have **3+ years of experience in data operations, ETL monitoring, and reportin
 
 **Dashboard Screenshot**
 
-![dashboard](https://github.com/user-attachments/assets/xxxxx)
+## Dashboard Preview
+
+![Dashboard](dashboard.png)
 
 ---
 
