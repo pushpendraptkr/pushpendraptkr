@@ -21,7 +21,26 @@ I have **3+ years of experience in data operations, ETL monitoring, and reportin
 
 ## 1️⃣ Cement Sales Dashboard (Excel)
 
-**Tools:** Excel, Pivot Tables, Pivot Charts, Slicers
+This project analyzes cement sales data using Microsoft Excel.
+
+## Project Overview
+This project analyzes sales performance of cement products across different regions using Excel dashboards.
+
+## Tools Used
+- Microsoft Excel
+- Pivot Tables
+- Pivot Charts
+- Slicers
+- KPI Metrics
+
+## Insights
+- Region-wise sales performance
+- Monthly sales trends
+- Product category comparison
+- Total revenue and quantity sold
+
+### Dashboard Preview
+![Dashboard](dashboard.png)
 
 **Description**
 
@@ -38,6 +57,8 @@ I have **3+ years of experience in data operations, ETL monitoring, and reportin
 ---
 
 ## 2️⃣ E-commerce Sales Analysis (Power BI)
+
+
 
 **Tools:** SQL, Power BI, Data Modeling
 
