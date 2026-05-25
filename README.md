@@ -52,19 +52,6 @@ This project analyzes sales performance of cement products across different regi
 
 ---
 
-## 2️⃣ E-commerce Sales Analysis (Power BI)
-
-
-**Tools:** SQL, Power BI, Data Modeling
-
-**Description**
-
-* Analysed e-commerce sales trends
-* Built KPIs like Total Revenue and Monthly Growth
-* Created interactive Power BI dashboard
-
----
-
 ## 📚 Certifications
 
 * Microsoft Power BI Data Analyst (PL-300)
