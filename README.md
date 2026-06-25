@@ -101,7 +101,7 @@ Built an interactive Power BI dashboard to analyze customer support operations u
 
 ## 📫 Connect With Me
 
-* 💼 LinkedIn: *linkedin.com/in/pushpendra-patkar-084757205/*
+* 💼 LinkedIn: https://www.linkedin.com/in/pushpendra-patkar-084757205/
 * 💻 GitHub: https://github.com/pushpendraptkr
 
 ---
