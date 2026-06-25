@@ -8,7 +8,7 @@ I'm a Reporting & Operations Analyst with **3+ years of experience** in ETL moni
 
 ## 🚀 Skills
 
-* 📊 Microsoft Excel (Advanced)
+* 📊 Microsoft Excel
 * 📈 Power BI
 * 🗄️ SQL (MySQL)
 * 🔄 Power Query
@@ -58,6 +58,26 @@ Business dashboard created using Excel for sales analysis.
 
 🔗 Repository:
 https://github.com/pushpendraptkr/cement-sales-dashboard-excel
+
+---
+
+## 📊 Featured Projects
+
+### 📌 Customer Support Operations Analytics Dashboard
+**Tools:** Power BI, DAX, Power Query, Star Schema, Data Modeling
+
+Built an interactive Power BI dashboard to analyze customer support operations using a Star Schema data model. The dashboard includes KPI tracking, SLA monitoring, CSAT analysis, FCR, productivity metrics, drill-through reports, dynamic titles, and interactive visualizations to support operational decision-making.
+
+**Key Features**
+- 📈 Executive Operations Overview
+- 👨‍💼 Agent Performance Dashboard
+- 🔍 Agent Drill-through Analysis
+- 📊 Interactive KPI Cards
+- 📌 DAX Measures
+- ⭐ Star Schema Data Model
+- 🎯 Business Insights
+
+🔗 **Repository:** https://github.com/pushpendraptkr/customer-support-operations-dashboard
 
 ---
 
