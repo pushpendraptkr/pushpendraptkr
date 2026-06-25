@@ -1,9 +1,10 @@
 # Hi, I'm Pushpendra Patkar 👋
 
-📊 **Aspiring Data Analyst | Excel | SQL | Power BI | Python**
+Reporting Analyst | Data Analyst | Excel | SQL | Power BI
 
-I have **3+ years of experience in data operations, ETL monitoring, and reporting**. I enjoy working with data to uncover insights, build dashboards, and support business decisions.
+3+ years of experience in ETL Monitoring, MIS Reporting, Dashboard Development, and Data Analysis.
 
+Open to Reporting Analyst, MIS Analyst, and Data Analyst opportunities.
 ---
 
 ## 🛠 Skills
@@ -49,6 +50,24 @@ This project analyzes sales performance of cement products across different regi
 ## Dashboard Preview
 
 ![Dashboard](dashboard.png)
+
+## 2️⃣ Service Operations Dashboard (Excel)
+
+Interactive Excel dashboard for monitoring service desk operations.
+
+### Features
+
+- KPI Cards
+- Pivot Tables
+- Pivot Charts
+- Slicers
+- Timeline
+- SLA Compliance
+- Escalation Rate
+- Team Performance
+
+📂 Repository:
+https://github.com/pushpendraptkr/excel-service-operations-dashboard
 
 ---
 
