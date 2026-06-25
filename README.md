@@ -1,85 +1,88 @@
-# Hi, I'm Pushpendra Patkar 👋
+# Hi 👋, I'm Pushpendra Patkar
 
-Reporting Analyst | Data Analyst | Excel | SQL | Power BI
+### Reporting Analyst | Data Analyst | Excel | SQL | Power BI
 
-3+ years of experience in ETL Monitoring, MIS Reporting, Dashboard Development, and Data Analysis.
-
-Open to Reporting Analyst, MIS Analyst, and Data Analyst opportunities.
----
-
-## 🛠 Skills
-
-* **Excel** – Pivot Tables, Dashboards, Advanced Formulas
-* **SQL** – Joins, Aggregations, Subqueries
-* **Power BI** – Data Modeling, DAX, Interactive Dashboards
-* **Python** – Pandas, NumPy for Data Analysis
-* **ServiceNow** – Incident Management
+I'm a Reporting & Operations Analyst with **3+ years of experience** in ETL monitoring, operational reporting, dashboard development, and data analysis. I enjoy building interactive dashboards that help transform raw data into actionable business insights.
 
 ---
 
-# 📊 Data Analytics Projects
+## 🚀 Skills
 
-## 1️⃣ Cement Sales Dashboard (Excel)
+* 📊 Microsoft Excel (Advanced)
+* 📈 Power BI
+* 🗄️ SQL (MySQL)
+* 🔄 Power Query
+* 📋 MIS Reporting
+* 📉 Dashboard Development
+* 📑 Data Analysis
+* 🎯 KPI Reporting
+* 🛠️ ServiceNow
+* 🐧 Linux (Basic)
 
-This project analyzes cement sales data using Microsoft Excel.
+---
 
-## Project Overview
-This project analyzes sales performance of cement products across different regions using Excel dashboards.
+## 📂 Featured Projects
 
-## Tools Used
-- Microsoft Excel
-- Pivot Tables
-- Pivot Charts
-- Slicers
-- KPI Metrics
+### 📊 Excel Service Operations Dashboard
 
-## Insights
-- Region-wise sales performance
-- Monthly sales trends
-- Product category comparison
-- Total revenue and quantity sold
+Interactive dashboard built using Microsoft Excel.
 
-**Description**
+**Features**
 
-* Analysed regional cement sales data
-* Built an interactive Excel dashboard
-* Created KPIs like Total Sales, Quantity, and Dealer Performance
+* KPI Cards
+* Pivot Tables & Pivot Charts
+* Interactive Slicers
+* Timeline Filter
+* SLA Compliance Monitoring
+* Team Performance Analysis
+* Customer Satisfaction (CSAT)
+* Escalation Rate Analysis
 
-**Dashboard Screenshot**
-
-## Dashboard Preview
-
-![Dashboard](dashboard.png)
-
-## 2️⃣ Service Operations Dashboard (Excel)
-
-Interactive Excel dashboard for monitoring service desk operations.
-
-### Features
-
-- KPI Cards
-- Pivot Tables
-- Pivot Charts
-- Slicers
-- Timeline
-- SLA Compliance
-- Escalation Rate
-- Team Performance
-
-📂 Repository:
+🔗 Repository:
 https://github.com/pushpendraptkr/excel-service-operations-dashboard
 
 ---
 
-## 📚 Certifications
+### 📈 Cement Sales Dashboard (Excel)
 
-* Microsoft Power BI Data Analyst (PL-300)
-* IBM Databases and SQL for Data Science
-* Microsoft Excel Certification
+Business dashboard created using Excel for sales analysis.
+
+**Features**
+
+* Sales Trend Analysis
+* Revenue Analysis
+* State-wise Sales
+* Company Performance
+* Interactive Dashboard
+* Pivot Tables & Charts
+
+🔗 Repository:
+https://github.com/pushpendraptkr/cement-sales-dashboard-excel
+
+---
+
+## 🎯 Currently Learning
+
+* Advanced SQL
+* Power BI (DAX)
+* Python for Data Analysis
+* Data Engineering Fundamentals
+
+---
+
+## 📜 Certifications
+
+* Microsoft PL-300: Power BI Data Analyst
+* IBM SQL Certification
+* Excel Dashboard & Reporting
 
 ---
 
 ## 📫 Connect With Me
 
-LinkedIn: https://linkedin.com
-GitHub: https://github.com/pushpendraptkr
+* 💼 LinkedIn: *(Add your LinkedIn profile URL here)*
+* 💻 GitHub: https://github.com/pushpendraptkr
+
+---
+
+⭐ Thank you for visiting my profile. Feel free to explore my projects and connect with me!
