@@ -73,6 +73,7 @@ https://github.com/pushpendraptkr/cement-sales-dashboard-excel
 ## 📜 Certifications
 
 * Microsoft PL-300: Power BI Data Analyst
+* Tutedude Data Analytics Certification
 * IBM SQL Certification
 * Excel Dashboard & Reporting
 
