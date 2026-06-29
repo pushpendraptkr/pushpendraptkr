@@ -43,24 +43,6 @@ https://github.com/pushpendraptkr/excel-service-operations-dashboard
 
 ---
 
-### 📈 Cement Sales Dashboard (Excel)
-
-Business dashboard created using Excel for sales analysis.
-
-**Features**
-
-* Sales Trend Analysis
-* Revenue Analysis
-* State-wise Sales
-* Company Performance
-* Interactive Dashboard
-* Pivot Tables & Charts
-
-🔗 Repository:
-https://github.com/pushpendraptkr/cement-sales-dashboard-excel
-
----
-
 ## 📊 Featured Projects
 
 ### 📌 Customer Support Operations Analytics Dashboard
@@ -78,6 +60,24 @@ Built an interactive Power BI dashboard to analyze customer support operations u
 - 🎯 Business Insights
 
 🔗 **Repository:** https://github.com/pushpendraptkr/customer-support-operations-dashboard
+
+---
+
+### 📈 Cement Sales Dashboard (Excel)
+
+Business dashboard created using Excel for sales analysis.
+
+**Features**
+
+* Sales Trend Analysis
+* Revenue Analysis
+* State-wise Sales
+* Company Performance
+* Interactive Dashboard
+* Pivot Tables & Charts
+
+🔗 Repository:
+https://github.com/pushpendraptkr/cement-sales-dashboard-excel
 
 ---
 
