@@ -1,8 +1,8 @@
 # Hi 👋, I'm Pushpendra Patkar
 
-### Reporting Analyst | Data Analyst | Excel | SQL | Power BI
+### Application Support Engineer | IT Operations | ServiceNow • Incident Management • SQL • Linux • Windows | 3+ Years at HCLTech | Open to Work
 
-I'm a Reporting & Operations Analyst with **3+ years of experience** in ETL monitoring, operational reporting, dashboard development, and data analysis. I enjoy building interactive dashboards that help transform raw data into actionable business insights.
+Application Support and IT Operations professional with **3+ years of experience** in incident management, ticket triage and routing, server health checks, and maintenance support at HCLTech. Hands-on with ServiceNow, SQL, Linux, Windows troubleshooting, Excel and Power BI. Microsoft PL-300 certified. Seeking Application Support, IT Support and Production Support roles. Available to join immediately.
 
 ---
 
